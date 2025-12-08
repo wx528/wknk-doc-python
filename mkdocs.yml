@@ -1,4 +1,4 @@
-site_name: was_scipts
+site_name: wknk-doc-python
 site_author: wasknk    
 repo_url: https://github.com/YourUsername/YourRepoName 
 
@@ -12,3 +12,4 @@ nav:
     - Docker Usage: 'docker.md'
     - Alembic: 'alembic.md'
     - Jupyter Notebook: 'JupyterNotebook.md'
+    - Git: 'git.md'
