@@ -16,3 +16,4 @@ nav:
     - Wsl: 'wsl.md'
     - Wraps: 'wraps.md'
     - Poetry: 'poetry.md'
+    - Pip: 'pip.md'
