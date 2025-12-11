@@ -14,3 +14,4 @@ nav:
     - Jupyter Notebook: 'JupyterNotebook.md'
     - Git: 'git.md'
     - Wsl: 'wsl.md'
+    - Wraps: 'wraps.md'
