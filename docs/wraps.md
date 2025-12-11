@@ -1,4 +1,4 @@
-# Decorator
+# wraps: Decorator
 
 ### A Simple Decorator Example 
 ```

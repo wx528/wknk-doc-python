@@ -15,3 +15,4 @@ nav:
     - Git: 'git.md'
     - Wsl: 'wsl.md'
     - Wraps: 'wraps.md'
+    - Poetry: 'poetry.md'
