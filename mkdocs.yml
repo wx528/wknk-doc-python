@@ -22,3 +22,4 @@ nav:
     - Type-hints: 'type-hints.md'
     - Rich: 'rich.md'
     - Annotated: 'Annotated.md'
+    - Flask: 'Flask.md'

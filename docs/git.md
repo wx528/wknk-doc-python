@@ -64,6 +64,11 @@ git rebase upstream/main
 
 ```
 
+## git reset to last commit (have not push to remote)
+```
+git reset --mixed HEAD~1
+```
+
 ## git gui
 ```
 git-gui
