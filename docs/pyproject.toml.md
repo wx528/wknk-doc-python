@@ -1,8 +1,7 @@
 # pyproject.toml
 
 
-
-## 
+## Example
 ```toml
 [project]
 name = "app"
@@ -88,7 +87,9 @@ show_contexts = true
 ```
 
 
-```
+## Usage 
+
+``` 
 uv pip compile pyproject.toml -o requirements.txt
 uv pip sync requirements.txt
 ```
