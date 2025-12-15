@@ -23,3 +23,4 @@ nav:
     - Rich: 'rich.md'
     - Annotated: 'Annotated.md'
     - Flask: 'Flask.md'
+    - Uv: 'uv.md'

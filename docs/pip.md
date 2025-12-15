@@ -1,5 +1,10 @@
 # Pip
 
+## upgrade
+
+```
+ python -m pip install --upgrade pip
+```
 
 
 ## freeze (must in venv evironment) 
