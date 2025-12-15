@@ -25,4 +25,5 @@ nav:
     - Flask: 'Flask.md'
     - Uv: 'uv.md'
     - Gunicorn: 'gunicorn.md'
+    - pip-tools: 'pip-tools.md'
     #- Celery: 'celery.md'
