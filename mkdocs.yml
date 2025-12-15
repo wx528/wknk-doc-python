@@ -26,4 +26,6 @@ nav:
     - Uv: 'uv.md'
     - Gunicorn: 'gunicorn.md'
     - pip-tools: 'pip-tools.md'
+    - pyproject.toml: 'pyproject.toml.md'
+
     #- Celery: 'celery.md'
