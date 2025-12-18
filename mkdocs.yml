@@ -27,5 +27,6 @@ nav:
     - Gunicorn: 'gunicorn.md'
     - pip-tools: 'pip-tools.md'
     - pyproject.toml: 'pyproject.toml.md'
+    - docker-compose: 'docker-compose.md'
 
     #- Celery: 'celery.md'
