@@ -16,6 +16,10 @@ uv add fastapi uvicorn pydantic-settings loguru
 uv add --dev pytest
 ```
 
+### dev 
+```
+uv run fastapi dev
+```
 
 ## install 
 
