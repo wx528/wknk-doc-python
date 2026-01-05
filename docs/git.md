@@ -101,3 +101,19 @@ git stash drop	手动删除储物柜里最近的一条记录。
 git stash clear	清空储物柜里的所有内容。
 git stash -u	注意！ 默认 stash 不包含新创建的文件（untracked），加 -u 才能存。
 ```
+
+## git merge --squash
+It will make other branch to one stage to current branch 
+so :
+1. switch to the branch you want to merge to 
+
+```
+git checkout feat/factors_api
+git merge --squash feat/docker-test-env
+git commit -m "集成 docker-test-env 的所有功能"
+
+git merge --squash feat/quant-platform
+git commit -m "集成 quant-platform 的所有功能"
+```
+
+
